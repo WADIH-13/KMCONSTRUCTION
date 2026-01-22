@@ -1,0 +1,44 @@
+IMAGES POUR KM CONSTRUCTIONS
+=============================
+
+Ce dossier doit contenir les images suivantes :
+
+1. logo.png - Logo de KM CONSTRUCTIONS (fourni par le client)
+   Dimensions recommandées : 200x50px ou proportions similaires
+
+2. hero.jpg - Image de fond pour la section hero
+   Source recommandée : https://unsplash.com/s/photos/construction-site
+   Mots-clés : construction site, building construction, mason work
+   Dimensions : 1920x1080px minimum
+
+3. about.jpg - Image pour la section À propos
+   Source recommandée : https://unsplash.com/s/photos/construction-team
+   Mots-clés : construction team, mason at work, builder
+   Dimensions : 800x600px minimum
+
+4. project1.jpg à project6.jpg - Images de réalisations
+   Sources recommandées : 
+   - https://unsplash.com/s/photos/house-construction
+   - https://unsplash.com/s/photos/masonry-work
+   - https://unsplash.com/s/photos/building-renovation
+   - https://pexels.com/search/construction/
+   
+   Suggestions pour les 6 images :
+   - project1.jpg : Construction maison neuve
+   - project2.jpg : Rénovation façade
+   - project3.jpg : Extension maison
+   - project4.jpg : Gros œuvre / fondations
+   - project5.jpg : Maçonnerie extérieure
+   - project6.jpg : Murs en construction
+
+   Dimensions : 800x600px minimum
+
+INSTRUCTIONS POUR TÉLÉCHARGER LES IMAGES :
+
+1. Visitez Unsplash.com ou Pexels.com
+2. Recherchez avec les mots-clés indiqués ci-dessus
+3. Téléchargez des images de haute qualité (gratuit)
+4. Renommez-les selon les noms indiqués ci-dessus
+5. Placez-les dans ce dossier /images/
+
+Note : Les images Unsplash et Pexels sont libres de droits pour usage commercial.
