@@ -43,7 +43,6 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 // HEADER SCROLL EFFECT
 // ==========================================
 const header = document.getElementById('header');
-let lastScroll = 0;
 
 window.addEventListener('scroll', () => {
     const currentScroll = window.pageYOffset;
@@ -53,8 +52,6 @@ window.addEventListener('scroll', () => {
     } else {
         header.classList.remove('scrolled');
     }
-    
-    lastScroll = currentScroll;
 });
 
 // ==========================================
@@ -156,12 +153,7 @@ window.addEventListener('load', () => {
 // ==========================================
 // LAZY LOADING IMAGES (Additional support)
 // ==========================================
-if ('loading' in HTMLImageElement.prototype) {
-    const images = document.querySelectorAll('img[loading="lazy"]');
-    images.forEach(img => {
-        img.src = img.src;
-    });
-} else {
+if (!('loading' in HTMLImageElement.prototype)) {
     // Fallback for browsers that don't support lazy loading
     const script = document.createElement('script');
     script.src = 'https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js';
