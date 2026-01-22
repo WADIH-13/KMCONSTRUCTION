@@ -9,7 +9,7 @@ Site web professionnel pour **KM CONSTRUCTIONS**, entreprise de maçonnerie et g
 | Objectif | Statut | Détails |
 |----------|--------|---------|
 | Logo KM intégré | ✅ PRÊT | Placeholder créé, à remplacer par le vrai logo |
-| Formulaire fonctionnel | ✅ FAIT | FormSubmit.co vers frejus83var@hotmail.com |
+| Formulaire fonctionnel | ✅ FAIT | FormSubmit.co vers meydday@hotmail.com |
 | Textes sans chevauchement | ✅ CORRIGÉ | Marges et paddings optimisés |
 | Vraies images | ⚠️ À FAIRE | Guide complet fourni (GUIDE_IMAGES.md) |
 | Design professionnel | ✅ FAIT | Palette KM, typographie, animations |
@@ -109,7 +109,7 @@ Site web professionnel pour **KM CONSTRUCTIONS**, entreprise de maçonnerie et g
 
 ### Configuration
 - **Service:** FormSubmit.co (gratuit, sans backend)
-- **Email destination:** frejus83var@hotmail.com
+- **Email destination:** meydday@hotmail.com
 - **Champs:** Nom, Email, Téléphone, Message
 - **Validation:** HTML5 + JavaScript
 - **Options:** Captcha désactivé, subject personnalisé
@@ -117,7 +117,7 @@ Site web professionnel pour **KM CONSTRUCTIONS**, entreprise de maçonnerie et g
 ### Première Utilisation
 ⚠️ **Important:** Première soumission nécessite confirmation par email!
 1. Soumettre le formulaire une fois
-2. Vérifier email frejus83var@hotmail.com
+2. Vérifier email meydday@hotmail.com
 3. Cliquer sur lien de confirmation
 4. Ensuite, tout fonctionne automatiquement
 
@@ -300,7 +300,7 @@ Lire absolument: `GUIDE_IMAGES.md`
 - **SIREN:** 802 785 782
 - **Adresse:** 550 Rue Marcel Pagnol, 83600 Fréjus
 - **Téléphone:** +33 7 58 56 00 05
-- **Email:** frejus83var@hotmail.com
+- **Email:** meydday@hotmail.com
 - **Année création:** 2018
 - **Activité:** Maçonnerie générale et gros œuvre de bâtiment
 

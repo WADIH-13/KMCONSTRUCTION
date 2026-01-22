@@ -105,7 +105,7 @@ Si vous avez un nom de domaine (ex: kmconstructions.fr):
 ### ✅ Test du formulaire de contact:
 1. Aller sur la section Contact
 2. Remplir et soumettre le formulaire
-3. **Important:** Vérifier l'email `frejus83var@hotmail.com`
+3. **Important:** Vérifier l'email `meydday@hotmail.com`
 4. **Première fois:** Confirmer l'adresse via le lien FormSubmit
 5. Tester à nouveau après confirmation
 
@@ -128,7 +128,7 @@ Si vous avez un nom de domaine (ex: kmconstructions.fr):
 ## Configuration du Formulaire FormSubmit
 
 ### Première soumission:
-1. FormSubmit enverra un email de confirmation à `frejus83var@hotmail.com`
+1. FormSubmit enverra un email de confirmation à `meydday@hotmail.com`
 2. Ouvrir l'email (vérifier les spams)
 3. Cliquer sur le lien de confirmation
 4. Après ça, tous les formulaires fonctionneront automatiquement

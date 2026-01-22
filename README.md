@@ -19,7 +19,7 @@ KM CONSTRUCTIONS est une entreprise spécialisée en maçonnerie générale et g
 - **SIREN:** 802 785 782
 - **Adresse:** 550 Rue Marcel Pagnol, 83600 Fréjus
 - **Téléphone:** +33 7 58 56 00 05
-- **Email:** frejus83var@hotmail.com
+- **Email:** meydday@hotmail.com
 
 ## 🚀 Structure du projet
 
@@ -105,7 +105,7 @@ Pour la version de production, **vous devez remplacer** toutes les images par de
 
 ## 📧 Configuration du formulaire de contact
 
-Le formulaire utilise **FormSubmit.co** pour envoyer les emails vers `frejus83var@hotmail.com`.
+Le formulaire utilise **FormSubmit.co** pour envoyer les emails vers `meydday@hotmail.com`.
 
 **Première utilisation:**
 1. Remplir et soumettre le formulaire une première fois
@@ -159,5 +159,5 @@ Basée sur le logo KM:
 ## 👤 Contact
 
 Pour toute question concernant ce site web:
-- **Email:** frejus83var@hotmail.com
+- **Email:** meydday@hotmail.com
 - **Téléphone:** +33 7 58 56 00 05
